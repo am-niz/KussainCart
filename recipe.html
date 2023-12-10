@@ -22,6 +22,26 @@
         span {
             color: royalblue;
         }
+
+       
+        @media print {
+            body {
+                font-family: sans-serif;
+                font-size: 12pt;
+            }
+
+            .cooking-steps {
+                width: 100%;
+                margin: 0 auto;
+                padding: 10px;
+            }
+
+            .cooking-step {
+                margin-bottom: 10px;
+            }
+        }
+  
+
     </style>
 
     <meta charset="utf-8">
@@ -351,6 +371,27 @@
         </div>
 
     </div>
+
+<head>
+  <title>Cooking Steps</title>
+  
+</head>
+<body>
+  <div class="cooking-steps">
+    <h1>Cooking Steps</h1>
+
+    <ol class="cooking-step">
+      <li>Cnamely grind chuana dal</li>
+      <li>In bowl, add grinded chamna del and add musshed boiled posto.</li>
+      <li>Mix it well and then add onion, salt, black pepper, green chillies, and red chilli powder.</li>
+      <li>fake dal mixture in hand and make small ülkel</li>
+      <li>On notestück lewe, shallow by Olanma Del Tildus and serve hut with mint chutney and tomato ketchup</li>
+    </ol>
+  </div>
+
+  <script>
+    window.print();
+  </script>
 
               
 </body>
