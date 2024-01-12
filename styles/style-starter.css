@@ -3412,8 +3412,8 @@ fieldset:disabled a.btn {
 
 .btn-sm,
 .btn-group-sm>.btn {
-  padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  margin-top: 3px;
+  font-size: -0.125rem;
   line-height: 1.5;
   border-radius: 0.2rem;
 }
@@ -8327,11 +8327,11 @@ button.bg-dark:focus {
 
 .fixed-top {
   position: fixed;
-  top: 0;
-  right: 0;
+  top: 0px;
+  right: -1px;
   left: 0;
   z-index: 1030;
-  background: var(--header-bg-color);
+  background: white;
   border-bottom: 1px solid var(--header-border-color);
 }
 
@@ -8568,7 +8568,7 @@ button.bg-dark:focus {
 
 .mt-4,
 .my-4 {
-  margin-top: 1.5rem !important;
+  margin-top: 2.5rem !important;
 }
 
 .mr-4,
@@ -8622,6 +8622,7 @@ button.bg-dark:focus {
 .pr-0,
 .px-0 {
   padding-right: 0 !important;
+  margin: -60px;
 }
 
 .pb-0,
@@ -8631,6 +8632,7 @@ button.bg-dark:focus {
 
 .pl-0,
 .px-0 {
+  margin: -6px;
   padding-left: 0 !important;
 }
 
@@ -15100,7 +15102,9 @@ nav ul li a:hover {
   font-size: 16px;
   font-weight: 100;
   text-align: center;
-  color: var(--heading-color);
+  color: royalblue;
+  font-weight: 500;
+  margin-left: 20px;
 }
 
 .nav-fixed .search-right a {
@@ -16369,7 +16373,7 @@ h3.title-big {
 .breadcrumbs-custom-path a,
 .breadcrumbs-custom-path a:active,
 .breadcrumbs-custom-path a:focus {
-  color: var(--secondary-color);
+  color: royalblue
 }
 
 @media (max-width: 568px) {

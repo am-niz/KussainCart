@@ -1,0 +1,188 @@
+Uri: https://www.allrecipes.com/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\apple-touch-icon-120x120-1.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\apple-touch-icon-152x152-1.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/apple-touch-icon-180x180.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\apple-touch-icon-180x180-1.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\apple-touch-icon-57x57-1.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\apple-touch-icon-60x60-1.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\apple-touch-icon-76x76-1.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://www.allrecipes.com/recipe/235052/moms-potato-latkes/
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\recipe\235052\moms-potato-latkes\index.htm
+Content Type: text/html
+
+Uri: https://www.allrecipes.com/static/1.130.0/cache/eNq1F1mypCDsQkN5iPmdSyCmlXkIFsHu17efsNhuKHa_mg-FhCwkZIEKHXdSVD3XTkElECuPgV_VfkH2vAU2KC6gM6oB-yLyqz2Xesdl-sFo0A4r3mAgu8sGzMy4JqAvt3QH3RhbDSN26pmGE1UP2bRAYwey7dzvjusW_kh0oMFmkWfbtoRP9qd5dvOJjCtlQcgBkF2hjiPrgJM3X-BgwWOkbjOonDzN77IlpNFVbYlM2LGvcTk_sfCA2Rt8TcDk7nCyPjyeZItn__tI0BUfCKPpLFyUspLF_j5OtIegDOpaeXtHUTynNGywE5iTt-ZrwHGpcAN-vo-CvL396Owo3GiheUkMSSzYMpn2fEmt1M6a-H9PSed6FX7vscXjCv93nJRGVisjvnCuRjkZPTSSJ0U32ZJ6JvjgA7xQnjSt3WMs9bTOIlz2obLIKDPJTBnQG7gsYOGnpZw8uiwuxY6lMk6FQ85RPWM-D9BLUvdbq0fnjMbZuYGBRXTZJD06K_0RshsXvmitYYZj33P7_LkgxWtQH3jnf8m1oMi9lD_0b419MgRuRXeEz2m4GdtTdfSNjquJfw0es8V1VpvvxTRHPnWBHhD9NaHm2rfbNfiDsNva63iLp4sfNN5t19223GLGwV3Cg2y1e0y5lWRoj5stJR3tLOZTnH9gL4711uQZ9YG8nrrVCjgrCE8lNaR7RpyfaZzI3yDlo-uMZc4Y5eRwVvsd5SpVIjkVqAWCSQf9hfNIWqoL2lbbivqu7nRxV0MjJPc96h77_QssXBAXfBmeUoQnFuy4zeI-T_DLkjPXDE5d2_9y2peNx9OUWw7dHpRp0_COQft9HMfLytxXU7xo8PSWsv4pQ_1XqgJxLZWqDbeJD4ny68lm7HvsGb4L3lH02GIY34ppXghVSkAl3TPE6mJe4Bp4K_V2muMZOuMMS6e9BC54_qbgW9ZkHS86L9gb6mTw2dHTt0CCIGJ98qlhRRpOVAsSxLyf51lOroinekKcFx1-xwKnZ5SnXMxjh9gicmJaZWquKvySA9XFOcXW8Alnak1xKNNNFSfecY65FoEWiUJ0ztMCz21UCoUF0IFvDZ7s8maMo13GoaQjEEX5r-k1HmqcX7gCrjWjxriGY8dGTQ8mi4u-lF0pG_oJq4YHKnB-6ympd5h_R7NJdA.min.css
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\static\1.130.0\cache\eNq1F1mypCDsQkN5iPmdSyCmlXkIFsHu17efsNhuKHa_mg-FhCwkZIEKHXdSVD3XTkElECuPgV_VfkH2vAU2KC6gM6oB-yLyqz2Xesdl-sFo0A4r3mAgu8sGzMy4JqAvt3QH3RhbDSN26pmGE1UP2bRAYwey7dzvjusW_kh0oMFmkWfbtoRP9qd5dvOJjC.css
+Content Type: text/css
+
+Uri: https://www.allrecipes.com/static/1.130.0/cache/eNqdVm1y4yAMvdCynp6hf_cSAstYCYaskJO4p6_8kdZ2E9vTmQzwBFKE9CRcZAEhVzQQJWAxoUA2Fyf9_W-Ruz_F8pButEKBhDAb21IQcyOpzcvTjS7MFSKFACY7TiGsT7nUXFLEKLmgKMgRQlFihdzrDwvGckPJZa6G4YUXs6N4H-3TB5pA8Tzc9IdwwwBUld4eZDxpGG9MMnr6YmvD2I1KjzrXSL6W9xqix3-UBaNafCb8sjUzEuFKXoUpFpYRSsdtoxmcrQ94cKUSk7kE6Ma7nG4TWOuuSBLyX-szyjPHgFWgKtNsXNLkRikYHV1wmsylTpIMk7UpbjhaEoTkp2kI8BaLGvAD-TxVzzxbelCiAIW8glscKIe7P0gd4KMzsEXQLNw6aZXFX0EYXXSaJNHsaqJtur8DpzZj2PnrqHvX79oa4YbOdNvA2VD06gQN4hXeNzDFh3uGX5i-MjmT7BuJrWhVKFlNBa5n7xJrMO0sAMfZ9Gu7VeJGidJXFwSTEdjVK_hM7VE4DeasmTQWYl-0S_j7qmAMGlSli44-cWcEfN7cPJ4_vBLe1EP-KTnQKSSlIHR5zFtcbaVObB4Kp7XksMc5OeqTUQM_lW1VHmil9MNOH4O3t86MzeVoEzoQq4XjpyXecSgrOHeWZK8RWe1BNgGPPSk7E5I7m2_pMw6OPXe6zRzsN70q4J2s8nbW8GanfEhWX-9a357hCeunnUdr_JzotI9d5-sdrdH0oPS93NGp2hD0CwQxDnpLuJl2T6nWh6F_EcsV_AT3nI8c.min.js
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\static\1.130.0\cache\eNqdVm1y4yAMvdCynp6hf_cSAstYCYaskJO4p6_8kdZ2E9vTmQzwBFKE9CRcZAEhVzQQJWAxoUA2Fyf9_W-Ruz_F8pButEKBhDAb21IQcyOpzcvTjS7MFSKFACY7TiGsT7nUXFLEKLmgKMgRQlFihdzrDwvGckPJZa6G4YUXs6N4H-3TB5pA8Tzc9IdwwwB.js
+Content Type: application/javascript
+
+Uri: https://www.allrecipes.com/static/1.130.0/cache/eNqFk2FuwyAMhS80xhk2adrfqeoFgDjEDYHMNpna08-ppq7tWCpFKPH7HB62sSxOMNjJZUlgQ5nmkiEL2-SOpYo9sD4mDBDGJ3sLH1bodGQ8gRIl9xjvkZ-vhJ5v8NaviuugawihlBGbKVUwobS1PpstuSvTpv7-sW9EF8hdISsDFdFQgyBQpsKeXBgxxwYx6YvxBG6cC2qhL4hqLiWCgLPW819zVy0KTP15aWwzV8_VN4Td_rURldXwTvzbAteermy7o4cNL647d7hm_KxgOBUxa6cfZ4ijCKK1Mux6SMhyyfkLx1laZ3URzILwtbFblOk8TAnDaOSf9tyPKz_XvACmQUdwqxEsVINUgm69B6KxNZ2DUduPK0AYBzHkMD1mUW9ZRgHzm2QU1gJQcxp7Ah6cT_DS8Tf0D3vx.min.js
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\static\1.130.0\cache\eNqFk2FuwyAMhS80xhk2adrfqeoFgDjEDYHMNpna08-ppq7tWCpFKPH7HB62sSxOMNjJZUlgQ5nmkiEL2-SOpYo9sD4mDBDGJ3sLH1bodGQ8gRIl9xjvkZ-vhJ5v8NaviuugawihlBGbKVUwobS1PpstuSvTpv7-sW9EF8hdISsDFdFQgyBQpsKeXBgxxwY.js
+Content Type: application/javascript
+
+Uri: https://www.allrecipes.com/thmb/2UEE7iiaocAwfnSre_D9aHvVbmI=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(2642x0:2644x2)/9442947-28119cb060704765a14389e4667a8ae8.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\2UEE7iiaocAwfnSre_D9aHvVbmI=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(2642x02644x2)\9442947-28119cb060704765a14389e4667a8ae8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/4KDMTQuGvgO7exUoNPf_ZgODVrk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/1423828-e7c9604aac204fe8994937e8782d42c8.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\4KDMTQuGvgO7exUoNPf_ZgODVrk=\750x0\filtersno_upscale()max_bytes(150000)strip_icc()\1423828-e7c9604aac204fe8994937e8782d42c8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/4TAN4PhYNTiegIQ7CBEzh5UmxRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1423828-moms-potato-latkes-Holiday-Baker-1x1-1-b1c132698dfa4d3b8c299f8e611b3906.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\4TAN4PhYNTiegIQ7CBEzh5UmxRo=\1500x0\filtersno_upscale()max_bytes(150000)strip_icc()\1423828-moms-potato-latkes-Holiday-Baker-1x1-1-b1c132698dfa4d3b8c299f8e611b3906.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/66f0g650AGZxBCMy68CRygVE0EE=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(124x0:126x2)/606765-3099e7e39d6640b1b976a116e133a953.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\66f0g650AGZxBCMy68CRygVE0EE=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(124x0126x2)\606765-3099e7e39d6640b1b976a116e133a953.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/6XnCTd-rzUEHn_x0G90fpUyOKbw=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1943x1691:1945x1693)/24332-ultimate-twice-baked-potato-DDMFS-4x3-1643-94592bde74914b7498d59c19c2d5e5ab.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\6XnCTd-rzUEHn_x0G90fpUyOKbw=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(1943x16911945x1693)\24332-ultimate-twice-baked-potato-DDMFS-4x3-1643-94592bde74914b7498d59c19c2d5e5ab.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/BY29ReZCGX1ahuug0LgVAbcsjdI=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2)/potato-pancakes-rotated-f32837ab3e5f401db81a27ccfafc0563.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\BY29ReZCGX1ahuug0LgVAbcsjdI=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(479x0481x2)\potato-pancakes-rotated-f32837ab3e5f401db81a27ccfafc0563.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/F8bsCYnwiwcUFPnZvp_M9H_h43E=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2)/1071564-472d0bb1112a4449a810f792357847e8.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\F8bsCYnwiwcUFPnZvp_M9H_h43E=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(479x0481x2)\1071564-472d0bb1112a4449a810f792357847e8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/FXbyEmpMeSi6O2E0b0RYTsckfO4=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(639x1079:641x1081)/7784361-potato-latkes-i-Andy-San-1x1-1-2fbc4093857548a089dc1e6af0e6b137.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\FXbyEmpMeSi6O2E0b0RYTsckfO4=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(639x1079641x1081)\7784361-potato-latkes-i-Andy-San-1x1-1-2fbc4093857548a089dc1e6af0e6b137.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/LgRidojpDQ75hSJjbhZ047ysQrs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1999x0:2001x2)/222608my-crispy-mashed-potato-pancakelutzflcat4x3-584f3b4df23a440fa37ee8dd8e3a5f1b.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\LgRidojpDQ75hSJjbhZ047ysQrs=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(1999x02001x2)\222608my-crispy-mashed-potato-pancakelutzflcat4x3-584f3b4df23a440fa37ee8dd8e3a5f1b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/nTw5h1E_hkh3wgz51BIjwWhyYFM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2)/874657-69e9029d9d3148de9beb1d8a5cc7ebad.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\nTw5h1E_hkh3wgz51BIjwWhyYFM=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(479x0481x2)\874657-69e9029d9d3148de9beb1d8a5cc7ebad.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/NYr1oQD3KWhZ9wJsyVOnfljSrkQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc()/ar_defaultPlaceHolderImage-01ff595bb5c043819991b30b49bbb057.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\NYr1oQD3KWhZ9wJsyVOnfljSrkQ=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()\ar_defaultPlaceHolderImage-01ff595bb5c043819991b30b49bbb057.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/thmb/p4K230EnskVtrmcOMI_AJcIKovM=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/90295-moms-apple-fritters-ddmfs-4X3-5780-c4e214bc6fa945ddadf7f1541539d390.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\p4K230EnskVtrmcOMI_AJcIKovM=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(999x01001x2)\90295-moms-apple-fritters-ddmfs-4X3-5780-c4e214bc6fa945ddadf7f1541539d390.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/pSfnil8NEFR22uWjrMz9YbXi6f0=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2)/6052746-8404e68069da409994855c2abac5f68c.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\pSfnil8NEFR22uWjrMz9YbXi6f0=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(479x0481x2)\6052746-8404e68069da409994855c2abac5f68c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/rf8-uzt8f91DD0B7QIBrTzHNQTY=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1999x0:2001x2)/8481345-parisian-potatoes-VAT-01-4x3-80efd5b20ea04166ab8b3763ea7dfc1e.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\rf8-uzt8f91DD0B7QIBrTzHNQTY=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(1999x02001x2)\8481345-parisian-potatoes-VAT-01-4x3-80efd5b20ea04166ab8b3763ea7dfc1e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/soJ7RwtMIvBrsbB2KjeXz5RoqEo=/300x150/filters:no_upscale():max_bytes(150000):strip_icc()/ar_magazine-457b736e5ed6442ea95b29d69489d496.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\soJ7RwtMIvBrsbB2KjeXz5RoqEo=\300x150\filtersno_upscale()max_bytes(150000)strip_icc()\ar_magazine-457b736e5ed6442ea95b29d69489d496-1.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/thmb/Ty6ZupdfWf4mmFugsZ6YrP87QXs=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2)/792228-32420ef69ee54fe5902f8f224940e4ef.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\Ty6ZupdfWf4mmFugsZ6YrP87QXs=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(479x0481x2)\792228-32420ef69ee54fe5902f8f224940e4ef.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/TYSN2E1-0mAx0S9ET6St2OObs0o=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(536x416:538x418)/2467817-kerrys-sweet-potato-latkes-Allrecipes-Magazine-4x3-1-40beb4a6f92444d0854e88767c2680ab.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\TYSN2E1-0mAx0S9ET6St2OObs0o=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(536x416538x418)\2467817-kerrys-sweet-potato-latkes-Allrecipes-Magazine-4x3-1-40beb4a6f92444d0854e88767c2680ab.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/ulvcY6bLXtwCgoiJlzd7LjHmzrc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1423828-e7c9604aac204fe8994937e8782d42c8.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\ulvcY6bLXtwCgoiJlzd7LjHmzrc=\1500x0\filtersno_upscale()max_bytes(150000)strip_icc()\1423828-e7c9604aac204fe8994937e8782d42c8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/vsDFYM8YuuLTAHv-f3Ad5LPMX-M=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(2030x1525:2032x1527)/8347905-Air-Fryer-Potato-Apple-Latkes-R311634-4x3-f63b255a389545f3a34332eef11f7449.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\vsDFYM8YuuLTAHv-f3Ad5LPMX-M=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(2030x15252032x1527)\8347905-Air-Fryer-Potato-Apple-Latkes-R311634-4x3-f63b255a389545f3a34332eef11f7449.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/W0IHS3Lmw4WYWwMv_Sp-yv3vJDU=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/Air-Fryer-Latkes-1x1-1-2000-0912a4747e304808a40d1cbb99697641.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\W0IHS3Lmw4WYWwMv_Sp-yv3vJDU=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(999x01001x2)\Air-Fryer-Latkes-1x1-1-2000-0912a4747e304808a40d1cbb99697641.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/Xc842pxUpWDAwZ_OBgATVkzBLZ4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/1423828-moms-potato-latkes-Holiday-Baker-1x1-1-b1c132698dfa4d3b8c299f8e611b3906.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\Xc842pxUpWDAwZ_OBgATVkzBLZ4=\750x0\filtersno_upscale()max_bytes(150000)strip_icc()\1423828-moms-potato-latkes-Holiday-Baker-1x1-1-b1c132698dfa4d3b8c299f8e611b3906.jpg
+Content Type: image/jpeg
+
+6ea0.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\PB--Y6x3CGjsefnz04vQ0P32yJw=\1500x0\filtersno_upscale()max_bytes(150000)strip_icc()\4565477-083c6e76248246d0badf43681fe76ea0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/R1vwTgf2MX-pz_OBAbM6ohXg990=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1860x1382:1862x1384)/ar-emeril-lagasse-getty-4x3-fbfa801283c14237ae21d1b5d65815b7.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\R1vwTgf2MX-pz_OBAbM6ohXg990=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(1860x13821862x1384)\ar-emeril-lagasse-getty-4x3-fbfa801283c14237ae21d1b5d65815b7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/rYNeaDFgQMQpNm3LVHM8L1s89kQ=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(2038x1459:2040x1461)/AR-doordash-phone-4x3-1a5033af4bb943d5a02af8cb5d651ee9.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\rYNeaDFgQMQpNm3LVHM8L1s89kQ=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(2038x14592040x1461)\AR-doordash-phone-4x3-1a5033af4bb943d5a02af8cb5d651ee9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/S1PSEGRTG5Gb1-o5lFRCCXm2sTo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Checkout-green-1-ecee390958b74aa898845b64a00d7cfb.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\S1PSEGRTG5Gb1-o5lFRCCXm2sTo=\750x0\filtersno_upscale()max_bytes(150000)strip_icc()\Checkout-green-1-ecee390958b74aa898845b64a00d7cfb.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/thmb/soJ7RwtMIvBrsbB2KjeXz5RoqEo=/300x150/filters:no_upscale():max_bytes(150000):strip_icc()/ar_magazine-457b736e5ed6442ea95b29d69489d496.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\soJ7RwtMIvBrsbB2KjeXz5RoqEo=\300x150\filtersno_upscale()max_bytes(150000)strip_icc()\ar_magazine-457b736e5ed6442ea95b29d69489d496.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/thmb/T08ZhL8txHaE_4DzN_ghYBMiPaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/delicious-egg-salad-for-sandwiches-photo-by-allrecipes-magazine-rotated-cropped-266c215fad194b97b8cb15dae44d7adc.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\T08ZhL8txHaE_4DzN_ghYBMiPaw=\1500x0\filtersno_upscale()max_bytes(150000)strip_icc()\delicious-egg-salad-for-sandwiches-photo-by-allrecipes-magazine-rotated-cropped-266c215fad194b97b8cb15dae44d7adc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/Tba2c6286s1JSndh9GV7CH9qysk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Waffles-I-06becefc48524986be808502773feefa.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\Tba2c6286s1JSndh9GV7CH9qysk=\1500x0\filtersno_upscale()max_bytes(150000)strip_icc()\Waffles-I-06becefc48524986be808502773feefa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/TO24NvzCmQstUmTVKnuiikMnaI0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Local-Offers-green-3983509379c648d1bed1359157814d03.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\TO24NvzCmQstUmTVKnuiikMnaI0=\750x0\filtersno_upscale()max_bytes(150000)strip_icc()\Local-Offers-green-3983509379c648d1bed1359157814d03.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/thmb/tUoEsBjRKPfF9qz9Z5TlKZzfKEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creamy-au-gratin-potatoes-41092af1235e4bdab3cc9ebcf992dd2e.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\tUoEsBjRKPfF9qz9Z5TlKZzfKEI=\1500x0\filtersno_upscale()max_bytes(150000)strip_icc()\creamy-au-gratin-potatoes-41092af1235e4bdab3cc9ebcf992dd2e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/WJGEr0xsurgJ19i-PUf0nTuWtdc=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(539x0:541x2)/CostcocartAdobeStock_329582245-946b3e646e8144d389f3520c08054e2c.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\WJGEr0xsurgJ19i-PUf0nTuWtdc=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(539x0541x2)\CostcocartAdobeStock_329582245-946b3e646e8144d389f3520c08054e2c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/wQC0Q7FPSXOU3SnMbAnbkW_hRE8=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(2040x1608:2042x1610)/ar-walmart-storefront-adobe-4x3-3-79ad20b3e04441148c6a4b2734cc080b.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\wQC0Q7FPSXOU3SnMbAnbkW_hRE8=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(2040x16082042x1610)\ar-walmart-storefront-adobe-4x3-3-79ad20b3e04441148c6a4b2734cc080b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/y68lW-Y92vwPkPJslkAxxPh7Mgk=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1999x0:2001x2)/ar-Pizza-Chicken-sarahaas-4x3-4516e5f983f5444180dbb6edbe6c2ffc.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\y68lW-Y92vwPkPJslkAxxPh7Mgk=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(1999x02001x2)\ar-Pizza-Chicken-sarahaas-4x3-4516e5f983f5444180dbb6edbe6c2ffc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/Yqe1_VlBPBkEQEsVcigEwb16bZY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Local-Offers-green-3983509379c648d1bed1359157814d03.png
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\Yqe1_VlBPBkEQEsVcigEwb16bZY=\1500x0\filtersno_upscale()max_bytes(150000)strip_icc()\Local-Offers-green-3983509379c648d1bed1359157814d03.png
+Content Type: image/png
+
+Uri: https://www.allrecipes.com/thmb/YxgVlx4CC5k8mr0gB745zaM1jaw=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(1350x976:1352x978)/AR-Nick-Jonas-Getty-4x3-b5f71f29db6341e0880837a26907b96f.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\YxgVlx4CC5k8mr0gB745zaM1jaw=\282x188\filtersno_upscale()max_bytes(150000)strip_icc()focal(1350x9761352x978)\AR-Nick-Jonas-Getty-4x3-b5f71f29db6341e0880837a26907b96f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.allrecipes.com/thmb/_xSWAzFNrCDATBvBEYJlul35kUk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Good-Old-Fashioned-Pancakes-2000-1c7c6c88869849c7a6f76b26517bbeda.jpg
+File Name: C:\Downloaded Web Sites\www.allrecipes.com\thmb\_xSWAzFNrCDATBvBEYJlul35kUk=\750x0\filtersno_upscale()max_bytes(150000)strip_icc()\Good-Old-Fashioned-Pancakes-2000-1c7c6c88869849c7a6f76b26517bbeda.jpg
+Content Type: image/jpeg
+
